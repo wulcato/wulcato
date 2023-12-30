@@ -5,12 +5,12 @@
  
 **E-Mail - How to reach me**
 
-Bussines : me@wulcato.net - wulcato@lothric.world - btaysi@hostown.world
+ Bussines : me@wulcato.net - wulcato@lothric.world - btaysi@hostown.world
 
     
     
- - ***Support* 🙏**
+  ***Support* 🙏**
 
 
- - [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O0SQCVU)
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O0SQCVU)
 
