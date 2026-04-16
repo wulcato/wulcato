@@ -1,8 +1,7 @@
-## 👋 Hi, I’m Wulcato
+## 👋 Hi, I'm Wulcato
 
- - Contributing to Linux & Open Source projects for fun
- 
-**E-Mail - How to reach me**
+- 🛠️ All-in-one dev (CLI, GUI, automation, whatever needed)
+- 🐧 Linux enthusiast
+- ⚡ Hates bloat, loves fast tools
 
- Bussines : me@wulcato.net
-
+Just here to build stuff and maybe help someone out.
